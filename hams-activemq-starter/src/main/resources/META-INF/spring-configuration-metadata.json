@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "name": "hams.activemq",
+      "type": "com.kedacom.hams.config.HamsActiveMqConfiguration",
+      "sourceType": "com.kedacom.hams.config.HamsActiveMqConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "hams.activemq.brokerIp",
+      "type": "java.lang.String",
+      "description": "activemq brokerIp",
+      "sourceType": "com.kedacom.hams.config.HamsActiveMqConfiguration"
+    },{
+      "name": "hams.activemq.brokerPort",
+      "type": "java.lang.String",
+      "description": "activemq brokerPort",
+      "sourceType": "com.kedacom.hams.config.HamsActiveMqConfiguration"
+    },{
+      "name": "hams.activemq.mqttPort",
+      "type": "java.lang.String",
+      "description": "activemq mqttPort",
+      "sourceType": "com.kedacom.hams.config.HamsActiveMqConfiguration"
+    },{
+      "name": "hams.activemq.username",
+      "type": "java.lang.String",
+      "description": "activemq username",
+      "sourceType": "com.kedacom.hams.config.HamsActiveMqConfiguration"
+    },{
+      "name": "hams.activemq.password",
+      "type": "java.lang.String",
+      "description": "activemq password",
+      "sourceType": "com.kedacom.hams.config.HamsActiveMqConfiguration"
+    }
+  ],
+  "hints": []
+}
